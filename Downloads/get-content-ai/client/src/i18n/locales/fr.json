@@ -1,0 +1,103 @@
+{
+  "common": {
+    "loading": "Chargement...",
+    "error": "Erreur",
+    "success": "Succès",
+    "cancel": "Annuler",
+    "save": "Enregistrer",
+    "delete": "Supprimer",
+    "edit": "Modifier",
+    "back": "Retour",
+    "next": "Suivant",
+    "previous": "Précédent",
+    "submit": "Soumettre",
+    "retry": "Réessayer",
+    "close": "Fermer"
+  },
+  "navigation": {
+    "dashboard": "Tableau de bord",
+    "templates": "Modèles",
+    "history": "Historique",
+    "help": "Aide",
+    "settings": "Paramètres",
+    "about": "À propos",
+    "privacy": "Confidentialité",
+    "terms": "Conditions"
+  },
+  "auth": {
+    "login": "Se connecter",
+    "signup": "S'inscrire",
+    "logout": "Se déconnecter",
+    "username": "Nom d'utilisateur",
+    "password": "Mot de passe",
+    "confirmPassword": "Confirmer le mot de passe",
+    "email": "Email",
+    "forgotPassword": "Mot de passe oublié ?",
+    "loginWithGoogle": "Se connecter avec Google",
+    "signupWithGoogle": "S'inscrire avec Google",
+    "createAccount": "Créer un compte",
+    "alreadyHaveAccount": "Vous avez déjà un compte ?",
+    "dontHaveAccount": "Vous n'avez pas de compte ?",
+    "welcomeBack": "Bon retour !",
+    "joinUs": "Rejoignez Get Content AI et commencez à créer du contenu incroyable"
+  },
+  "landing": {
+    "hero": {
+      "title": "Créez du contenu engageant pour les réseaux sociaux avec l'IA",
+      "subtitle": "Générez du contenu professionnel et optimisé pour les plateformes en quelques secondes en utilisant des modèles d'IA avancés. Parfait pour les créateurs, les entreprises et les marketeurs.",
+      "getStarted": "Commencer gratuitement",
+      "watchDemo": "Voir la démo"
+    },
+    "features": {
+      "title": "Tout ce dont vous avez besoin pour créer du contenu incroyable",
+      "subtitle": "Des outils d'IA puissants conçus pour vous aider à créer, optimiser et partager du contenu sur toutes les plateformes de médias sociaux.",
+      "aiPowered": {
+        "title": "Génération alimentée par l'IA",
+        "description": "Des modèles de langage avancés créent du contenu authentique et engageant adapté à la voix de votre marque et à votre audience."
+      },
+      "multiPlatform": {
+        "title": "Optimisation multi-plateforme",
+        "description": "Contenu optimisé pour Instagram, Twitter, Facebook, LinkedIn avec les meilleures pratiques spécifiques à chaque plateforme."
+      },
+      "imageGeneration": {
+        "title": "Génération d'images",
+        "description": "Créez des visuels époustouflants avec DALL-E 3 ou téléchargez vos propres images, automatiquement dimensionnées pour chaque plateforme."
+      }
+    },
+    "pricing": {
+      "title": "Tarifs simples et transparents",
+      "free": {
+        "title": "Gratuit",
+        "price": "0€",
+        "period": "/mois",
+        "features": [
+          "5 générations d'IA",
+          "Modèles d'IA de base",
+          "Modèles standard",
+          "Historique du contenu"
+        ]
+      },
+      "pro": {
+        "title": "Pro",
+        "price": "29€",
+        "period": "/mois",
+        "popular": "Le plus populaire",
+        "features": [
+          "Générations d'IA illimitées",
+          "Modèles d'IA premium (GPT-4, Claude)",
+          "Génération d'images avancée",
+          "Support prioritaire",
+          "Analyses avancées"
+        ]
+      }
+    }
+  },
+  "subscribe": {
+    "title": "Passer à Pro",
+    "subtitle": "Débloquez les modèles d'IA premium et les fonctionnalités avancées",
+    "upgradeToPro": "Passer à Pro",
+    "loginRequired": "Connexion requise",
+    "loginToUpgrade": "Veuillez vous connecter pour passer à Pro et débloquer la génération illimitée de contenu IA",
+    "securePayments": "✨ Annulez à tout moment • 💳 Paiements sécurisés • 🔒 Vos données sont en sécurité"
+  }
+}

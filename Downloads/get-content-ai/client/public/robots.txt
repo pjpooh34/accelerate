@@ -1,0 +1,31 @@
+User-agent: *
+Allow: /
+
+# High-priority pages for indexing
+Allow: /about
+Allow: /help
+Allow: /privacy
+Allow: /terms
+Allow: /trends
+Allow: /login
+Allow: /signup
+
+# Disallow private user areas and API endpoints
+Disallow: /dashboard
+Disallow: /settings
+Disallow: /history
+Disallow: /saved
+Disallow: /subscribe
+Disallow: /profile
+Disallow: /api/
+Disallow: /templates
+
+# Crawl-delay for better server performance
+Crawl-delay: 1
+
+# Sitemap location
+Sitemap: https://getcontentai.com/sitemap.xml
+
+# Additional sitemaps
+Sitemap: https://getcontentai.com/sitemap-blog.xml
+Sitemap: https://getcontentai.com/sitemap-features.xml
