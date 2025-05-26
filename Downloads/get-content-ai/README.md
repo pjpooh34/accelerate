@@ -1,3 +1,3 @@
-# GetContentAI
+# Get Content AI
 
-This is the initial file structure for GetContentAI project.
+This is a working starter project for Vite + React deployed on Vercel.
