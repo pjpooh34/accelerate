@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+BEGIN:VEVENT
+SUMMARY:Fidelity Investments Appointment
+CLASS:PUBLIC
+DTSTAMP:20250515T200030Z
+DTSTART:20250529T183000Z
+DTEND:20250529T193000Z
+UID:6b230fb9-7b16-4da1-a95a-f42cc2eb560b
+LOCATION:4611 Sharon Road, Charlotte, NC, 28211
+DESCRIPTION: You'll have a 60 minute meeting with KARA LAMAR.\n\n Your confirmation # is: 08p5e000003VCX1AAO.\n\n Please be sure to have your username and password ready to help with your discussion.\n\n My GreenLine - https://fidelity.com/greenline \n\n1052810.2.0 \n? 2022 FMR LLC. All rights reserved. \n\nFidelity Brokerage Services LLC,\nMember NYSE, SIPC \n900 Salem Street, Smithfield, RI 02917.
+X-ALT-DESC;FMTTYPE=text/html:<html><body>You'll have a 60 minute meeting with KARA LAMAR.<br/><br/>Your confirmation # is: 08p5e000003VCX1AAO. <br/><br/>Please be sure to have your username and password ready to help with your discussion.<br/><br/><a href=https://www.google.com/maps/search/?api=1&query=4611+Sharon+Road%2C+Charlotte%2C+NC%2C+28211> Get Directions </a> to the Charlotte Investor Center.<br/><br/> <a href="https://fidelity.com/greenline">My Greenline</a><br/><br/><a href=https://www.google.com/maps/search/?api=1&query=4611+Sharon+Road%2C+Charlotte%2C+NC%2C+28211><img src=https://www.fidelity.com/bin-public/060_www_fidelity_com/images/branches/Charlotte.jpg alt=Charlotte/></a><br/><br/><font size="-1.5"><div style="line-height:10px"><br/>1052810.2.0<br/>&#169; 2022 FMR LLC. All rights reserved.<br/></div><br/><div style="line-height:10px"><br/>Fidelity Brokerage Services LLC,<br/>Member NYSE, SIPC<br/>900 Salem Street, Smithfield, RI 02917<br/></div></font></body></html>
+END:VEVENT
+END:VCALENDAR
